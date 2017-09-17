@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCStudy/graduate-project.git"
+  },
+  "author": "donghyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCStudy/graduate-project/issues"
+  },
+  "homepage": "https://github.com/MCStudy/graduate-project#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
