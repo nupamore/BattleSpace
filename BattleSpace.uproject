@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.16",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BattleSpace",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
